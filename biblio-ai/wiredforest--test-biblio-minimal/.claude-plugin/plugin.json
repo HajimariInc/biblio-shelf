@@ -1,0 +1,10 @@
+{
+  "name": "test-biblio-minimal",
+  "description": "biblio-claw の M2 完成判定 verify (scripts/verify-m2.sh) で仕入れる最小 biblio。skill としては no-op で、検品 3 軸 (schema / license / dangerous) を全通過することだけを保証する。",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": {
+    "name": "WForest",
+    "email": "claude@wforest.jp"
+  }
+}
